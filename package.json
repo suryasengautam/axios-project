@@ -1,0 +1,14 @@
+{
+  "name": "axios-project",
+  "version": "1.0.0",
+  "description": "how to install and use axios in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "suryasen",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
